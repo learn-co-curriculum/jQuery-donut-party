@@ -14,3 +14,5 @@ So like I said, it can be stressful being a host to a donut party.  You need to 
 learn  # runs only in the terminal
 learn -b # runs also in the browser
 ```
+
+<a href='https://learn.co/lessons/jQuery-donut-party' data-visibility='hidden'>View this lesson on Learn.co</a>
